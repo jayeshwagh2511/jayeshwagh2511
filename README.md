@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Jayesh Wagh 👋
 
-<!--
-**jayeshwagh2511/jayeshwagh2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Software Developer  
+Building real-world projects with Java, Python & AI  
+Focused on learning and improving every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- Python
+- MySQL
+- Artificial Intelligence (Basics)
+- Frontend Development (HTML, CSS)
+
+---
+
+## Projects
+### AI Habit Tracker
+A Java + MySQL based system to track habits and generate AI-based suggestions.
+
+🔗 https://github.com/jayeshwagh2511/Habit-Tracker
+
+---
+
+## Goals
+- Build impactful AI projects  
+- Learn advanced backend development  
+- Get internship in software/AI field  
+
+---
+
+## Fun Fact
+I enjoy building smart systems like AI assistants 🤖
